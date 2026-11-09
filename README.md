@@ -1,6 +1,6 @@
 # Digital Logic Sim — Godot port
 
-Open `project.godot` in Godot 4.7 and run the project. The Swift app in `Digital Logic Sim NEW` is a read-only behavior reference; this Godot project is self-contained.
+Open `project.godot` in Godot 4.7 and run the project.
 
 ## Controls
 
