@@ -1,4 +1,4 @@
-# Digital Logic Sim — Godot port
+# Digital Logic Sim
 
 Open `project.godot` in Godot 4.7 and run the project.
 
